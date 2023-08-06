@@ -1,0 +1,83 @@
+[
+    {
+        "data": [
+            "Flight",
+            "Carrier",
+            "Destination",
+            "Departure",
+            "Status"
+        ]
+    },
+    {
+        "data": [
+            "6E 7144",
+            "IndiGo",
+            "(MAA) Chennai",
+            "8:45 AM",
+            "Landed"
+        ]
+    },
+    {
+        "data": [
+            "IX 1624",
+            "Air India Express",
+            "(KUL) Kuala Lumpur",
+            "9:20 AM",
+            "Landed"
+        ]
+    },
+    {
+        "data": [
+            "IX 1639",
+            "Air India Express",
+            "(AUH) Abu Dhabi",
+            "9:45 AM",
+            "Landed"
+        ]
+    },
+    {
+        "data": [
+            "6E 7319",
+            "IndiGo",
+            "(HYD) Hyderabad",
+            "7:25 PM",
+            "Scheduled"
+        ]
+    },
+    {
+        "data": [
+            "6E 2289",
+            "IndiGo",
+            "(BLR) Bengaluru",
+            "7:35 PM",
+            "Scheduled"
+        ]
+    },
+    {
+        "data": [
+            "IX 1611",
+            "Air India Express",
+            "(DXB) Dubai",
+            "7:40 PM",
+            "Scheduled"
+        ]
+    },
+    {
+        "data": [
+            "IX 1682",
+            "Air India Express",
+            "(SIN) Singapore",
+            "9:30 PM",
+            "Scheduled"
+        ]
+    },
+    {
+        "data": [
+            "6E 7151",
+            "IndiGo",
+            "(MAA) Chennai",
+            "10:15 PM",
+            "Scheduled"
+        ]
+    }
+]

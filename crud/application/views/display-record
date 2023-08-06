@@ -1,0 +1,30 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<title>Display Record</title>
+</head>
+<body>
+
+<?php
+if(isset($table)){
+	foreach($table as $row){
+		echo $row->Name.'<br>';
+		echo $row->Date_of_joining.'<br>';
+		echo $row->Address.'<br>';
+		echo $row->Department.'<br>';
+		echo $row->Phone_Number.'<br>';
+		echo $row->Gender.'<br>';
+		echo $row->Blood_group.'<br> <br>';
+   }}
+   ?>
+		
+		
+		
+		
+		
+
+</body>
+</html>
